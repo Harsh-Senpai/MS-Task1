@@ -31,22 +31,22 @@ const imageAltText = "desk with a lot of books and specs on the top";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Check out the Waste Management System Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created with a group of members. Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.",
+    url: "https://waste-managemnt-system.000webhostapp.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Early Detection Of ADHD in Childrens Using Machine Learning",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "ADHD diagnosis in children through machine learning, our project identifies early signs, aiding prompt intervention for better developmental outcomes",
+    url: "https://drive.google.com/drive/folders/1gsdrAxb4oHRsW2T9n7xFFmUt0NCvPZ0r?usp=sharing",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume at a Glance",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's Office and uploaded to Gdrive. It Includes my experience and Skills.",
+    url: "https://drive.google.com/drive/folders/1-c6OeMPba6uN_iDE8qp3zhMUZm12r4-P?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",

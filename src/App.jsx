@@ -29,10 +29,10 @@ const siteProps = {
   email: "Harsh.Jain@studentambassadors.com",
   gitHub: "Harsh-Senpai",
   instagram: "snap.freak__",
-  linkedIn: "harsh-j-b8aa0583",
+  linkedIn: "harsh-senpai",
   medium: "",
   twitter: "InoriMaster11",
-  youTube: "Code",
+  youTube: "https://www.youtube.com/channel/UCC8Qa9Yw0Pl6GmK-HCpUtHw",
 };
 
 const primaryColor = "#4E567E";
