@@ -31,27 +31,27 @@ const imageAltText = "desk with a lot of books and specs on the top";
  */
 const projectList = [
   {
-    title: "Check out the Waste Management System Project",
+    title: "Check out the Waste Management System Project 🗑️",
     description:
       "Created with a group of members. Optimizing waste management with a comprehensive system, our project streamlines collection, recycling, and disposal for a sustainable and eco-friendly environment.",
     url: "https://waste-managemnt-system.000webhostapp.com/",
   },
   {
-    title: "Early Detection Of ADHD in Childrens Using Machine Learning",
+    title: "Early Detection Of ADHD in Childrens Using Machine Learning 🦠",
     description:
-      "ADHD diagnosis in children through machine learning, our project identifies early signs, aiding prompt intervention for better developmental outcomes",
+      "ADHD diagnosis in children through machine learning, our project identifies early signs, aiding prompt intervention for better developmental outcomes.",
     url: "https://drive.google.com/drive/folders/1gsdrAxb4oHRsW2T9n7xFFmUt0NCvPZ0r?usp=sharing",
   },
   {
-    title: "My Resume at a Glance",
+    title: "My Resume at a Glance 📃",
     description:
       "Created from Microsoft's Office and uploaded to Gdrive. It Includes my experience and Skills.",
     url: "https://drive.google.com/drive/folders/1-c6OeMPba6uN_iDE8qp3zhMUZm12r4-P?usp=sharing",
   },
   {
-    title: "Photography: Visual Stories Unveiled",
+    title: "Visual Stories Unveiled 📷",
     description:
-      "Mastering nature's canvas with keen observation and technical finesse, my photography captures the beauty, serenity, and intricacies of the natural world",
+      "Mastering nature's canvas with keen observation and technical finesse, my photography captures the beauty, serenity, and intricacies of the natural world.",
     url: "https://drive.google.com/drive/folders/1RBDgKAnkBn9mWDI35mfCr213ghHj6ix3?usp=sharing",
   },
 ];
