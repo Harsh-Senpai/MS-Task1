@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "harsh-senpai",
   medium: "",
   twitter: "InoriMaster11",
-  youTube: "www.youtube.com/channel/UCC8Qa9Yw0Pl6GmK-HCpUtHw",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
