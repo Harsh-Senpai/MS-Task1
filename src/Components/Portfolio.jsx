@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Check out the Waste Management System Project",
     description:
-      "Created with a group of members. Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.",
+      "Created with a group of members. Optimizing waste management with a comprehensive system, our project streamlines collection, recycling, and disposal for a sustainable and eco-friendly environment.",
     url: "https://waste-managemnt-system.000webhostapp.com/",
   },
   {
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://drive.google.com/drive/folders/1-c6OeMPba6uN_iDE8qp3zhMUZm12r4-P?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Photography: Visual Stories Unveiled",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Mastering nature's canvas with keen observation and technical finesse, my photography captures the beauty, serenity, and intricacies of the natural world",
+    url: "https://drive.google.com/drive/folders/1RBDgKAnkBn9mWDI35mfCr213ghHj6ix3?usp=sharing",
   },
 ];
 
